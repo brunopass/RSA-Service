@@ -1,0 +1,249 @@
+﻿Instalando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Instalando el servicio AuthService...
+El servicio AuthService se ha instalado correctamente.
+Creando el origen de EventLog AuthService en el registro Application...
+Confirmando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Instalando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Instalando el servicio AuthService...
+Creando el origen de EventLog AuthService en el registro Application...
+Deshaciendo ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Restaurando el registro de eventos al estado anterior para el origen AuthService.
+Instalando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Instalando el servicio AuthService...
+Creando el origen de EventLog AuthService en el registro Application...
+Deshaciendo ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Restaurando el registro de eventos al estado anterior para el origen AuthService.
+Desinstalando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Quitando el origen de EventLog AuthService.
+Se está quitando el servicio AuthService del sistema...
+El servicio AuthService se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Instalando el servicio AuthService...
+El servicio AuthService se ha instalado correctamente.
+Creando el origen de EventLog AuthService en el registro Application...
+Confirmando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Desinstalando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Quitando el origen de EventLog AuthService.
+Se está quitando el servicio AuthService del sistema...
+El servicio AuthService se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Instalando el servicio AuthService...
+El servicio AuthService se ha instalado correctamente.
+Creando el origen de EventLog AuthService en el registro Application...
+Confirmando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Desinstalando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Quitando el origen de EventLog AuthService.
+Se está quitando el servicio AuthService del sistema...
+El servicio AuthService se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Instalando el servicio AuthService...
+El servicio AuthService se ha instalado correctamente.
+Creando el origen de EventLog AuthService en el registro Application...
+Confirmando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Desinstalando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Quitando el origen de EventLog AuthService.
+Se está quitando el servicio AuthService del sistema...
+El servicio AuthService se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Instalando el servicio AuthService...
+El servicio AuthService se ha instalado correctamente.
+Creando el origen de EventLog AuthService en el registro Application...
+Confirmando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Desinstalando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Quitando el origen de EventLog AuthService.
+Se está quitando el servicio AuthService del sistema...
+El servicio AuthService se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Instalando el servicio AuthService...
+El servicio AuthService se ha instalado correctamente.
+Creando el origen de EventLog AuthService en el registro Application...
+Confirmando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Desinstalando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Quitando el origen de EventLog AuthService.
+Se está quitando el servicio AuthService del sistema...
+El servicio AuthService se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Instalando el servicio AuthService...
+El servicio AuthService se ha instalado correctamente.
+Creando el origen de EventLog AuthService en el registro Application...
+Confirmando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Desinstalando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Quitando el origen de EventLog AuthService.
+Se está quitando el servicio AuthService del sistema...
+El servicio AuthService se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Instalando el servicio AuthService...
+El servicio AuthService se ha instalado correctamente.
+Creando el origen de EventLog AuthService en el registro Application...
+Confirmando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Desinstalando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Quitando el origen de EventLog AuthService.
+Se está quitando el servicio AuthService del sistema...
+El servicio AuthService se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Instalando el servicio AuthService...
+El servicio AuthService se ha instalado correctamente.
+Creando el origen de EventLog AuthService en el registro Application...
+Confirmando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Desinstalando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Quitando el origen de EventLog AuthService.
+Se está quitando el servicio AuthService del sistema...
+El servicio AuthService se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Instalando el servicio AuthService...
+El servicio AuthService se ha instalado correctamente.
+Creando el origen de EventLog AuthService en el registro Application...
+Confirmando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Desinstalando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Quitando el origen de EventLog AuthService.
+Se está quitando el servicio AuthService del sistema...
+El servicio AuthService se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
+Instalando el servicio AuthService...
+El servicio AuthService se ha instalado correctamente.
+Creando el origen de EventLog AuthService en el registro Application...
+Confirmando ensamblado 'C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.InstallLog
+   assemblypath = C:\Users\bruno\source\repos\PARCIAL2PASSARELLIBRUNO\PARCIAL2PASSARELLIBRUNO\bin\Debug\PARCIAL2PASSARELLIBRUNO.exe
