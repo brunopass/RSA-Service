@@ -54,6 +54,6 @@ file.xml
 
 
 
-## Author ✒️
+## Autor ✒️
 
 * **Bruno Passarelli** - [brunopass](https://github.com/brunopass)
