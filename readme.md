@@ -54,7 +54,8 @@ file.xml
 ```
 #### output: soy un ejemplo
 
-
+### Ejemplo de decriptación (gif): 
+![](./decrypt.gif)
 
 ## Autor ✒️
 
