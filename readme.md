@@ -1,6 +1,8 @@
 # Parcial Passarelli Bruno
 ## RSA windows cryptography service 
 
+## Introducción 😄
+
 rsa es un sistema criptográfico de clave pública desarrollado en 1979. Es el primer y más utilizado algoritmo de este tipo y es válido tanto para cifrar como para firmar digitalmente.
 
 La seguridad de este algoritmo radica en el problema de la factorización de números enteros. Los mensajes enviados se representan mediante números, y el funcionamiento se basa en el producto, conocido, de dos números primos grandes elegidos al azar y mantenidos en secreto. Actualmente estos primos son del orden de 10^300, y se prevee que su tamaño siempre crezca con el aumento de la capacidad de cálculo de los ordenadores.
