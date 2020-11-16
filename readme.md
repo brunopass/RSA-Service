@@ -18,6 +18,7 @@ fuente: https://es.wikipedia.org/wiki/RSA
 #### Para trabajar con el, simplemente se arrastra un archivo de nombre estricto "file.xml" con 2 valores, lo que se espera realizar (encrypt || decrypt) y el texto
 
 ### Encriptar texto plano
+file.xml
 ```xml
 <file>
   <type>
@@ -38,6 +39,7 @@ fuente: https://es.wikipedia.org/wiki/RSA
 
 
 ### Desencriptar RSA
+file.xml
 ```xml
 <file>
   <type>
