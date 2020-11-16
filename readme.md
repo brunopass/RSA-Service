@@ -33,7 +33,7 @@ fuente: https://es.wikipedia.org/wiki/RSA
 
 
 
-### Ejemplo de encriptación: 
+### Ejemplo de encriptación (gif): 
 ![](./encrypt.gif)
 
 
