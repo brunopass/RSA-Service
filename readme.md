@@ -15,8 +15,6 @@ fuente: https://es.wikipedia.org/wiki/RSA
 ## DSS
 ![](./diagrama.png)
 
-#
-#
 
 ## 🚀 Empezando 🚀! 
 
