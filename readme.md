@@ -16,6 +16,10 @@ fuente: https://es.wikipedia.org/wiki/RSA
 
 ## 🚀 Empezando 🚀! 
 
+```powershell
+git clone https://github.com/brunopass/RSA-Service.git
+```
+
 #### El servicio, cuando es iniciado, genera una carpeta en un path determinado, preferentemente el desktop.
 #### Para trabajar con el, simplemente se arrastra un archivo de nombre estricto "file.xml" con 2 valores, lo que se espera realizar (encrypt || decrypt) y el texto
 
